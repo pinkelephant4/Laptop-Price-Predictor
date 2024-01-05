@@ -12,8 +12,6 @@ This is a learning project which was built along with a [youtube video](https://
 
 
 
-
-
 ## Steps
 
 - Dataset imported and cleaned.
@@ -22,6 +20,9 @@ This is a learning project which was built along with a [youtube video](https://
 - Ensemble methods like Random Forest and Voting Regressor demonstrated superior accuracy.
 - Model Deployed using `pickle` and Streamlit used for creating UI.
 - Website deployed using [Render](https://render.com/).
+
+Find all the code in the `laptop-price-predictor.ipynb` file.
+
 
 
 ## Deployment
