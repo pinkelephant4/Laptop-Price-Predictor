@@ -25,15 +25,19 @@ Find all the code in the `laptop-price-predictor.ipynb` file.
 
 
 
-## Deployment
+## Installation
 
-* To install dependencies
+* Clone the project
+
+* Navigate into the project folder
+
+* To install dependencies run
 
     ```bash
     pip install -r requirements.txt
     ```
 
-* To deploy this project run
+* To serve on localhost run
 
     ```bash
     streamlit run app.py
