@@ -9,6 +9,11 @@ Feel free to explore the details in the Jupyter Notebook and interact with the d
 
 This is a learning project which was built along with a [youtube video](https://www.youtube.com/watch?v=BgpM2IiCH6k) showing the basics of an ML project.It delves into the complex interplay of features, brand dynamics, and technical specifications to provide a comprehensive exploration of laptop pricing.
 
+## Demo
+
+You can find the deployed model [here](https://laptop-price-predictor-pinkelephant4.onrender.com/).
+
+
 
 
 
@@ -48,4 +53,5 @@ Find all the code in the `laptop-price-predictor.ipynb` file.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ananyamaheshwari.co/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-maheshwari-445158225/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaheshwriAnanya)
+
 
